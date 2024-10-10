@@ -1,4 +1,4 @@
-# Object-Detection-Assignment
+# Object-Detection
 
 ## Installation
 #### 1. First take a look at the requirements.txt file and make sure you have all the dependencies installed in your running environment
